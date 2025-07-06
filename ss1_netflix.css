@@ -36,7 +36,7 @@ body{
 .logo button{
     padding: 8px;
     position: absolute;
-    left: 1100px;
+/*     left: 1100px; */
     top: 30px;
     background-color: black;
     color: white;
@@ -51,7 +51,7 @@ body{
 }
 .signin button{
     position: absolute;
-    left: 1250px;
+/*     left: 1250px; */
     top: 30px;
     background-color: red;
     color: white;
