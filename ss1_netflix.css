@@ -1,8 +1,3 @@
-*{
-     padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
 body{
     background-color: gray;
     display: flex;
@@ -10,6 +5,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     width: 100vw;
     height: 100vh;
+     overflow-x:hiden;
 }
 
 .container{
@@ -36,7 +32,7 @@ body{
 .logo button{
     padding: 8px;
     position: absolute;
-    left: 1100px;
+/*     left: 1100px; */
     top: 30px;
     background-color: black;
     color: white;
@@ -51,7 +47,7 @@ body{
 }
 .signin button{
     position: absolute;
-    left: 1250px;
+/*     left: 1250px; */
     top: 30px;
     background-color: red;
     color: white;
